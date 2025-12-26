@@ -31,3 +31,4 @@ Thanks to all the amazing people who have contributed to **AlumX's Backend Repos
 - Sayed Al Amaan Zaidi(@amaan1114)
 - jatin (@thenix09)
 - Aaditya Maurya (@aadityamaurya31)
+- Paarth Arora (@iit2025280-sys)
