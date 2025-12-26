@@ -20,3 +20,4 @@ Thanks to all the amazing people who have contributed to **AlumX's Backend Repos
 - Shaurya Raj Mallick(@Shaurpro)
 - Aditya Shirsatrao (@adityashirsatrao007)
 - Saumya Sood (@Marcella2706)
+- Omdeep Masram(@omicoded19)
